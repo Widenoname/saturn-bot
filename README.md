@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://github.com/larafe1/saturn-bot">
-    <img src="https://github.com/larafe1/saturn-bot/blob/master/.github/saturn-logo.png">
+  <a href="https://github.com/larahfelipe/saturn-bot">
+    <img src="https://github.com/larahfelipe/saturn-bot/blob/master/.github/saturn-logo.png">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/larafe1/saturn-bot/releases">
+  <a href="https://github.com/larahfelipe/saturn-bot/releases">
     <img src="https://img.shields.io/static/v1?label=version&message=5.x&color=5965E0&labelColor=121214" alt="Version">
   </a>
   <a href="https://www.typescriptlang.org/">
@@ -17,11 +17,11 @@
   <a href="https://github.com/discordjs/discord.js/">
     <img src="https://img.shields.io/static/v1?label=built%20with&message=Discord.js&color=5965E0&labelColor=121214" alt="Discord.js">
   </a>
-  <a href="https://github.com/larafe1/saturn-bot/blob/master/LICENSE">
+  <a href="https://github.com/larahfelipe/saturn-bot/blob/master/LICENSE">
     <img src="https://img.shields.io/static/v1?label=license&message=GPL-v3.0&color=5965E0&labelColor=121214" alt="License">
   </a>
-  <a href="https://github.com/larafe1/saturn-bot/actions/workflows/ci.yml">
-    <img src="https://github.com/larafe1/saturn-bot/actions/workflows/ci.yml/badge.svg" alt="GitHub Actions">
+  <a href="https://github.com/larahfelipe/saturn-bot/actions/workflows/ci.yml">
+    <img src="https://github.com/larahfelipe/saturn-bot/actions/workflows/ci.yml/badge.svg" alt="GitHub Actions">
   </a>
 </p>
 
@@ -44,7 +44,7 @@ First things first, make sure that you have `git`, `node`, and `npm` installed. 
 #### Clone this repo and navigate to it
 
 ```elm
-git clone https://github.com/larafe1/saturn-bot.git
+git clone https://github.com/larahfelipe/saturn-bot.git
 
 cd saturn-bot
 ```
@@ -93,4 +93,4 @@ That's pretty much it! Thank you for using Saturn and have fun!
 
 Also, in case you want to contribute to this project, pull requests are more than welcome. Feel free to open one.
 
-> **This project is licensed under a [GNU General Public License v3.0 License](https://github.com/larafe1/saturn-bot/blob/master/LICENSE)**
+> **This project is licensed under a [GNU General Public License v3.0 License](https://github.com/larahfelipe/saturn-bot/blob/master/LICENSE)**
